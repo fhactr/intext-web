@@ -1,2 +1,4 @@
-# intext-web
-The web part of the intext - hosting by github pages
+Web version of inText
+---------------------
+
+Available ad the address https://fhactr.github.io/intext-web/
