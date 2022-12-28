@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://fhactr.github.io/intext-web/static/css/main.d26fff97.css",
-    "main.js": "https://fhactr.github.io/intext-web/static/js/main.1517deae.js",
+    "main.css": "https://fhactr.github.io/intext-web/static/css/main.8da7c59a.css",
+    "main.js": "https://fhactr.github.io/intext-web/static/js/main.642e787a.js",
     "static/js/787.a44d2e53.chunk.js": "https://fhactr.github.io/intext-web/static/js/787.a44d2e53.chunk.js",
     "index.html": "https://fhactr.github.io/intext-web/index.html",
-    "main.d26fff97.css.map": "https://fhactr.github.io/intext-web/static/css/main.d26fff97.css.map",
-    "main.1517deae.js.map": "https://fhactr.github.io/intext-web/static/js/main.1517deae.js.map",
+    "main.8da7c59a.css.map": "https://fhactr.github.io/intext-web/static/css/main.8da7c59a.css.map",
+    "main.642e787a.js.map": "https://fhactr.github.io/intext-web/static/js/main.642e787a.js.map",
     "787.a44d2e53.chunk.js.map": "https://fhactr.github.io/intext-web/static/js/787.a44d2e53.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d26fff97.css",
-    "static/js/main.1517deae.js"
+    "static/css/main.8da7c59a.css",
+    "static/js/main.642e787a.js"
   ]
 }
