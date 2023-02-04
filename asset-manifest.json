@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://ui.intext.io/static/css/main.7a5002a5.css",
-    "main.js": "https://ui.intext.io/static/js/main.570b7bdf.js",
+    "main.js": "https://ui.intext.io/static/js/main.f2d08e15.js",
     "static/js/787.a44d2e53.chunk.js": "https://ui.intext.io/static/js/787.a44d2e53.chunk.js",
     "index.html": "https://ui.intext.io/index.html",
     "main.7a5002a5.css.map": "https://ui.intext.io/static/css/main.7a5002a5.css.map",
-    "main.570b7bdf.js.map": "https://ui.intext.io/static/js/main.570b7bdf.js.map",
+    "main.f2d08e15.js.map": "https://ui.intext.io/static/js/main.f2d08e15.js.map",
     "787.a44d2e53.chunk.js.map": "https://ui.intext.io/static/js/787.a44d2e53.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a5002a5.css",
-    "static/js/main.570b7bdf.js"
+    "static/js/main.f2d08e15.js"
   ]
 }
